@@ -4,14 +4,14 @@
 
 ## Programming Languages We Use 💻
 
+- Java ☕
+- Kotlin 🎯
 - Rust 🦀
+- Go 🔵
 - C++ ⚡
 - C# 🔷
 - TypeScript 📘
 - JavaScript 💛
 - Python 🐍
-- Go 🔵
-- Java ☕
-- Kotlin 🎯
 
 If you have experience in any of these languages, don't hesitate to contribute to our projects! We appreciate all contributors. 🤝
