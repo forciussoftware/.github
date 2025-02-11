@@ -7,7 +7,6 @@
 - Java ☕
 - Kotlin 🎯
 - Rust 🦀
-- Go 🔵
 - C++ ⚡
 - C# 🔷
 - TypeScript 📘
